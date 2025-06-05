@@ -1,2 +1,2 @@
-# Testing
-Creating and exploring git
+### Testing
+Creating repository and exploring git 
